@@ -1,4 +1,4 @@
-package main
+package fundamentals
 
 import (
 	"fmt"
