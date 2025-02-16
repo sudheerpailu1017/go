@@ -19,5 +19,7 @@ func LinearSearch(x int) {
 }
 
 /*
-
- */
+best case would be o(1) if the element is found at beginning
+worst case: o(n) last
+average case: o(n) general
+*/

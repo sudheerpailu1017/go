@@ -1,8 +1,6 @@
 package main
 
-import (
-	"fundamentals/searchings"
-)
+import "fundamentals/loops--conditions--booleans"
 
 func main() {
 	// arrays.ArraysDeclaration()
@@ -10,5 +8,6 @@ func main() {
 	// arrays.A = arrays.Append_slice(arrays.A, 20000)
 	// arrays.SliceDeclaration()
 	// loops.ForLoops()
-	searchings.LinearSearch(45)
+	// searchings.LinearSearch(45)
+	loops.Conditons(0)
 }
